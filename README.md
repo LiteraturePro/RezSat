@@ -1,4 +1,4 @@
-# Hi there 👋
+![Hi there](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ## 🔭 I’m currently working on
    - AI powered mobile photo-editing app
