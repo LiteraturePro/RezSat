@@ -1,9 +1,9 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on:
-    - AI powered mobile photo-editing app
-    - Sinhala Voice Assisatnt
-    - Ceylonicus - A Bilingual (Sinhala & English) Programming Language
+## 🔭 I’m currently working on
+   - AI powered mobile photo-editing app
+   - Sinhala Voice Assisatnt
+   - Ceylonicus - A Bilingual (Sinhala & English) Programming Language
 
 <h1>My current skills</h1>
 <h2> Languages </h2>
@@ -22,30 +22,47 @@
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-- 📫 reach me:
+<h2> Github Stats </h2>
 
-	<a href="https://twitter.com/rezsat" target="_blank">
-    		<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png"/>
-        </a>
+<div>
+  <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" margin="20" src="https://github-profile-trophy.vercel.app/?username=rezsat&column=7&margin-w=15&margin-h=15&theme=onedark"/>
+  </a>
+  </p>
+</div>
+<br />
+<div align="center">
+  <p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=rezsat&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
+
+  </p>
+ </div>
+ 
+## 📫 reach me
+
+<a href="https://twitter.com/rezsat" target="_blank">
+	<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png"/>
+</a>
 	
-	<a href="https://instagram.com/official.yehanwasura.lk" target="_blank">
-    		<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/>
-   	</a>
+<a href="https://instagram.com/official.yehanwasura.lk" target="_blank">
+	<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/>
+</a>
 	
-	<a href="https://facebook.com/anon.rezsat" target="_blank">
-    		<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-facebook-social-media-justicon-lineal-color-justicon.png"/>
-  	 </a>
+<a href="https://facebook.com/anon.rezsat" target="_blank">
+	<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-facebook-social-media-justicon-lineal-color-justicon.png"/>
+</a>
 	 
-	<a href="https://discord.com/users/723579239751876639">
-    		<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-discord-social-media-justicon-lineal-color-justicon.png"/>
-   	</a>
+<a href="https://discord.com/users/723579239751876639">
+	<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-discord-social-media-justicon-lineal-color-justicon.png"/>
+</a>
 	
-  	<a href="https://wa.me/+94762679048" target="_blank">
-    		<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-whatsapp-social-media-justicon-lineal-color-justicon.png"/>
-   	</a>
- 	<a href="https://t.me/rezsat1" target="_blank">
-    		<img src="https://img.icons8.com/color/64/000000/telegram-app--v2.png"/>
-   	</a>
+<a href="https://wa.me/+94762679048" target="_blank">
+	<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-whatsapp-social-media-justicon-lineal-color-justicon.png"/>
+</a>
+<a href="https://t.me/rezsat1" target="_blank">
+	<img src="https://img.icons8.com/color/64/000000/telegram-app--v2.png"/>
+</a>
 
 ### If Discord link doesn't work : ` RezSat#2861 `
 
