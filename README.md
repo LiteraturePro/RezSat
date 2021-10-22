@@ -1,4 +1,8 @@
-![Hi there](https://i.ibb.co/WsXWJ6X/Hi-there-I-m-Yehan-Wasura-1.png)
+<div>
+  <p align="center">
+    <img align="center" margin="20" src="https://i.ibb.co/WsXWJ6X/Hi-there-I-m-Yehan-Wasura-1.png"/>
+  </p>
+</div>
 
 ## 🔭 I’m currently working on
    - Adora - AI powered mobile photo-editing app
