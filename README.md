@@ -1,8 +1,8 @@
-![Hi there](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Hi there](https://i.ibb.co/WsXWJ6X/Hi-there-I-m-Yehan-Wasura-1.png)
 
 ## 🔭 I’m currently working on
-   - AI powered mobile photo-editing app
-   - Sinhala Voice Assisatnt
+   - Adora - AI powered mobile photo-editing app
+   - Sinhala Voice Assisatnt for Mobile
    - Ceylonicus - A Bilingual (Sinhala & English) Programming Language
 
 <h1>My current skills</h1>
